@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+tests/
+docker/volume/
+docker/dify/volume/
+
+web/node_modules/
+web/dist/
+web/.vscode/
+
+.DS_Store
+.idea/
+.venv/
+logs/
+# 环境变量文件
+.env.*
+.pytest_cache/
